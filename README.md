@@ -1,2 +1,2 @@
 # spotify-clone
- spotify clone using only HTML and CSS
+ spotify clone using only HTML, CSS and Bootstrap 
